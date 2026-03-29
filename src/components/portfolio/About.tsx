@@ -3,10 +3,10 @@ import SectionWrapper from "./SectionWrapper";
 import { TrendingUp, BarChart3, Settings, BookOpen } from "lucide-react";
 
 const highlights = [
-  { icon: TrendingUp, label: "Supply Chain Management", desc: "Procurement, Demand forecasting, supply planning, logistics, and inventory optimization" },
+  { icon: TrendingUp, label: "Procurement & Supply Chain Management", desc: "Procurement, Demand forecasting, supply planning, logistics, and inventory optimization" },
   { icon: BarChart3, label: "Data-Driven Decisions", desc: "KPI dashboards with Power BI, Tableau, and advanced Excel" },
   { icon: Settings, label: "Process Optimization", desc: "Procurement digitalization, P2P systems, and ERP automation" },
-  { icon: BookOpen, label: "Continuous Learning", desc: "MBA graduate, ML thesis, CSCMP certifications, SQL & Python" },
+  { icon: BookOpen, label: "Domain Knowledge", desc: "CSCMP certifications, Continuous Learning, SQL & Python" },
 ];
 
 const About = () => (
@@ -30,7 +30,7 @@ const About = () => (
           I specialize in transforming supply chain data into actionable insights—driving cost optimization, improving forecast accuracy, optimizing inventory levels, and enhancing S&OP alignment.I bring hands-on experience with Power BI, Tableau, and SQL, and have served as a key user for SAP MM and Oracle Cloud, including training and onboarding new users.
         </p>
         <p>
-          I hold a Bachelor's degree in Mechanical Engineering and an MBA from HTW Berlin, along with CSCMP certifications in Procurement, Demand Planning, and Inventory Management.
+          I hold a Bachelor's degree in Mechanical Engineering and an MBA degree, along with CSCMP certifications in Procurement, Demand Planning, and Inventory Management.
         </p>
       </motion.div>
 
