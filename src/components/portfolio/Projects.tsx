@@ -18,8 +18,8 @@ const projects = [
     problem: "Lack of visibility into inventory levels across multiple warehouse locations.",
     tools: ["Power BI", "SQL", "DAX"],
     outcome: "Created real-time dashboard enabling data-driven reorder decisions, reducing overstock by 22%.",
-    github: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Spend%20Analysis.pbix",
-    caseStudy: "",
+    PBIX_FILE: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Spend%20Analysis.pbix",
+    PDF: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Spend%20Analysis.pdf",
   },
   {
     title: "Supplier Performance Scorecard",
