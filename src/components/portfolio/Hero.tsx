@@ -42,8 +42,8 @@ const Hero = () => {
               transition={{ duration: 0.6, delay: 0.3 }}
               className="text-base md:text-lg text-primary-foreground/60 mb-10 max-w-xl leading-relaxed"
             >
-              5+ years of experience in demand planning, supply planning, and inventory management.
-              Turning supply chain data into actionable insights through S&OP, KPI tracking, and BI tools.
+              5+ years of experience in Procurement, supply planning, and inventory management.
+              Turning supply chain data into actionable insights through KPI monitoring using BI tools.
             </motion.p>
 
             <motion.div
