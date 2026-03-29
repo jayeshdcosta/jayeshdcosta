@@ -3,7 +3,7 @@ import SectionWrapper from "./SectionWrapper";
 import { TrendingUp, BarChart3, Settings, BookOpen } from "lucide-react";
 
 const highlights = [
-  { icon: TrendingUp, label: "Supply Chain Planning", desc: "Demand forecasting, supply planning, S&OP, and inventory optimization" },
+  { icon: TrendingUp, label: "Supply Chain Management", desc: "Procurement, Demand forecasting, supply planning, logistics, and inventory optimization" },
   { icon: BarChart3, label: "Data-Driven Decisions", desc: "KPI dashboards with Power BI, Tableau, and advanced Excel" },
   { icon: Settings, label: "Process Optimization", desc: "Procurement digitalization, P2P systems, and ERP automation" },
   { icon: BookOpen, label: "Continuous Learning", desc: "MBA graduate, ML thesis, CSCMP certifications, SQL & Python" },
@@ -24,13 +24,13 @@ const About = () => (
         className="space-y-4 text-muted-foreground leading-relaxed"
       >
         <p>
-          I'm a Supply Chain Planning Professional with 5+ years of experience across
-          demand planning, supply planning, and inventory management in manufacturing,
-          healthcare, and retail environments. Based in Hamburg, Germany.
+          I'm a Procurement & Supply Chain Planning Professional with 5+ years of experience across Direct & Indirect Procurement,
+          demand forecasting, supply planning, and inventory management in manufacturing,
+          retail and multinational environments. Based in Hamburg, Germany.
         </p>
         <p>
           My focus is on transforming supply chain data into actionable insights —
-          whether it's improving forecast accuracy, optimizing inventory levels,
+          whether it's improving spend, forecast accuracy, optimizing inventory levels,
           or driving S&OP alignment. I've worked hands-on with SAP MM, Oracle Cloud,
           Power BI, Tableau, and SQL.
         </p>
