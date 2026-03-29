@@ -42,16 +42,16 @@ const projects = [
     problem: "",
     tools: ["Excel", "Process Mapping", "Lean"],
     outcome: "Proposed layout changes that improved revenue simulation model.",
-    github: "#",
-    caseStudy: "#",
+    github: "",
+    caseStudy: "",
   },
   {
     title: "S&OP Planning Dashboard",
     problem: "Upload Pending",
     tools: ["Power BI", "SQL", "Excel"],
     outcome: "Pending",
-    github: "#",
-    caseStudy: "#",
+    github: "",
+    caseStudy: "",
   },
 ];
 
