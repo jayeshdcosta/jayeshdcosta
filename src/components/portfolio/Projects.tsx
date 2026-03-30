@@ -33,7 +33,7 @@ const projects = [
     title: "4FLOW Sustainability challenge",
     problem: "",
     tools: ["Excel", "Pivot Tables", "Data Modeling"],
-    outcome: "Please access the below link for the details"",
+    outcome: "Please access the below link for the details",
     github: "#",
     caseStudy: "#",
   },
