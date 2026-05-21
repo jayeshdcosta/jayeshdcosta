@@ -4,7 +4,7 @@ import { Briefcase } from "lucide-react";
 
 const experiences = [
   {
-    title: "Supply Chain Planning Specialist",
+    title: "Supply Chain Planning",
     company: "Amplifon SpA — Hamburg, Germany",
     duration: "Apr 2025 – Mar 2026",
     bullets: [
@@ -20,7 +20,7 @@ const experiences = [
       ],
   },
   {
-    title: "Procurement Specialist",
+    title: "Procurement",
     company: "Sun Pharma Ltd. — Mumbai, India",
     duration: "Aug 2022 – Nov 2023",
     bullets: [
@@ -28,7 +28,7 @@ const experiences = [
      ],
   },
   {
-    title: "Global Procurement Specialist",
+    title: "Global Procurement",
     company: "Piramal Enterprises Ltd. — Mumbai, India",
     duration: "Feb 2021 – Aug 2022",
     bullets: [
