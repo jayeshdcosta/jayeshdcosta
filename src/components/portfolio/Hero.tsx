@@ -33,7 +33,7 @@ const Hero = () => {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-lg md:text-xl text-primary-foreground/80 mb-4 font-medium"
             >
-              Procurement & Supply Chain Professional
+             Supply Chain Professional
             </motion.p>
 
             <motion.p
@@ -42,7 +42,6 @@ const Hero = () => {
               transition={{ duration: 0.6, delay: 0.3 }}
               className="text-base md:text-lg text-primary-foreground/60 mb-10 max-w-xl leading-relaxed"
             >
-              Strategic Procurement Professional and Supply Chain Executor.
               Process Optimization, Digital transformation and turning data into actionable insights.
             </motion.p>
 
