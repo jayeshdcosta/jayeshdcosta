@@ -3,15 +3,10 @@ import SectionWrapper from "./SectionWrapper";
 import { TrendingUp, BarChart3, Settings, BookOpen } from "lucide-react";
 
 const highlights = [
-  { icon: TrendingUp, label: "Supply Chain Management", desc: " Demand forecasting, supply planning,
-S&OP, SKU-level planning, inventory optimization, replenishment planning, product lifecycle planning,
-service level improvement, obsolescence control, lead time optimization" },
-  { icon: BarChart3, label: "Procurement Management", desc: "Strategic sourcing, direct & indirect procurement, category management, global procurement,
-supplier management, contract negotiations, tender analysis (RFQ/ RFP), TCO analysis, spend analysis, cost
-reduction, procurement compliance." },
-  { icon: Settings, label: "Business & Process", desc: "Business planning, commercial planning, promotion planning, pricing impact, KPI
-reporting, financial and business acumen" },
-  { icon: BookOpen, label: "Analytics & Tools", desc: "SAP S/4HANA, IBP, Oracle Cloud, Advanced Excel, SQL, Power BI, Tableau, Python" },
+  { icon: TrendingUp, label: "Procurement & Supply Chain Management", desc: "Procurement, Demand forecasting, supply planning, logistics, and inventory optimization" },
+  { icon: BarChart3, label: "Process Optimization", desc: "Digitalization, and ERP System implementation" },
+  { icon: Settings, label: "Data-Driven Decisions", desc: "KPI dashboards with Power BI, Tableau, and advanced Excel" },
+  { icon: BookOpen, label: " Financial and business acumen", desc: "  Business planning, commercial planning" },
 ];
 
 const About = () => (
