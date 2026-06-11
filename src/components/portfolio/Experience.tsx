@@ -36,7 +36,7 @@ const experiences = [
        ],
   },
   {
-    title: "Procurement & Supply Chain",
+    title: "Supply Chain Planning",
     company: "Rochem Separation Systems — Mumbai, India",
     duration: "Dec 2019 – Feb 2021",
     bullets: [
