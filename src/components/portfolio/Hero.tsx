@@ -33,7 +33,7 @@ const Hero = () => {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-lg md:text-xl text-primary-foreground/80 mb-4 font-medium"
             >
-             Supply Chain Professional
+              Demand Planner | Supply Planner | S&OP | Inventory Optimization
             </motion.p>
 
             <motion.p
@@ -42,7 +42,7 @@ const Hero = () => {
               transition={{ duration: 0.6, delay: 0.3 }}
               className="text-base md:text-lg text-primary-foreground/60 mb-10 max-w-xl leading-relaxed"
             >
-              Process Optimization, Digital transformation and turning data into actionable insights.
+              Process Optimization, Digital transformation and turning data into actionable insights and business decisions.
             </motion.p>
 
             <motion.div
