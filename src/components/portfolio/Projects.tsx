@@ -10,8 +10,8 @@ const projects = [
     problem: "Tradional forecasting is highly manual and not scalable, while fully automated ML models lacked business context. The challenge is to balance automation with human expertise to improve accuracy and efficiency.",
     tools: ["Excel", "Python", "Pandas", "Time Series"],
     outcome: "Reduced planner workload from 1000+ SKUs to around 100 key items. Improved forecasting accuracy by approximately 4%.",
-    github: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Demand%20forecasting.pdf", 
-    caseStudy: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Demand%20forecasting.pdf",
+    github: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/ML_Enhanced_Demand_Forecasting.pdf", 
+    caseStudy: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/ML_Enhanced_Demand_Forecasting.pdf",
   },
   {
     title: "Spend Analysis Dashboard",
@@ -21,6 +21,22 @@ const projects = [
     github: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Spend%20Analysis.pbix",
     caseStudy: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Spend%20Analysis.pdf",
   },
+   {
+    title: "4FLOW Sustainability challenge",
+    problem: "In the Challenge, we designed a consulting-style sustainable end-to-end supply chain transformation using KPI-driven recommendations.",
+    tools: ["ESG", "AUDIT", "Sustainability"],
+    outcome: "Our structured and data-driven approach helped us reach the top 10 teams, and we were recognized for combining sustainability with strong financial and operational impact",
+    github: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/4Flow%20challenge_Final%20-%20Team%20Zenith.pdf",
+    caseStudy: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/calculations.xlsx",
+  },
+   {
+    title: "S&OP_Revenue model",
+    problem: "The existing sales funnel report tracked customer movement from appointments to final sales, but it lacked region-level revenue forecasting and scenario simulation needed to support inventory, capacity, and business planning decisions.",
+    tools: ["Power BI", "SQL", "Excel"],
+    outcome: "Developed a Revenue Simulation Model that extends sales funnel data into Excel-based revenue forecasting and scenario planning, helping translate appointment, trial, and sales performance into actionable business insights.",
+    github: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Revenue_Simulation_Model.pdf",
+    caseStudy: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Revenue_Simulation_Model.pdf",
+  },
   {
     title: "Inventory Dashboard",
     problem: "This dashboard was built on actual business use cases in my previous organisation. All sensitive data has been blurred due to data privacy policies.",
@@ -29,15 +45,7 @@ const projects = [
     github: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Inventory%20DB.pdf",
     caseStudy: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Inventory%20DB.pdf",
   },
-  {
-    title: "4FLOW Sustainability challenge",
-    problem: "In the Challenge, we designed a consulting-style sustainable end-to-end supply chain transformation using KPI-driven recommendations.",
-    tools: ["ESG", "AUDIT", "Sustainability"],
-    outcome: "Our structured and data-driven approach helped us reach the top 10 teams, and we were recognized for combining sustainability with strong financial and operational impact",
-    github: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/4Flow%20challenge_Final%20-%20Team%20Zenith.pdf",
-    caseStudy: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/calculations.xlsx",
-  },
-  {
+   {
     title: "Harvard sustainability case study",
     problem: "In my sustainability case study, I worked on reducing greenhouse gas emissions for a hotel called The Grandeur.",
     tools: ["ESG", "AUDIT", "Sustainability", "Lean"],
@@ -45,14 +53,7 @@ const projects = [
     github: "",
     caseStudy: "",
   },
-  {
-    title: "S&OP Planning",
-    problem: "",
-    tools: ["Power BI", "SQL", "Excel"],
-    outcome: "",
-    github: "",
-    caseStudy: "",
-  },
+  
 ];
 
 const Projects = () => (
