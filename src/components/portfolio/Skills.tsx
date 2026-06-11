@@ -8,15 +8,19 @@ const skillGroups = [
   },
   {
     category: "Procurement & Supplier Management",
-    skills: ["Strategic Sourcing", "Supplier Performance Management", "Lead Time Optimization", "BOM & Engineering Coordination", "Risk & Resilience"],
+    skills: ["Strategic Sourcing", "Supplier Performance Management", "Lead Time Optimization", "TCO analysis", "Risk & Resilience"],
   },
   {
     category: "Technical Skills",
-    skills: ["SAP MM", "Oracle Cloud", "Power BI", "Tableau", "SQL", "Advanced Excel", "Process Digitalization"],
+    skills: ["SAP s4hana", "Oracle Cloud", "Power BI", "Tableau", "SQL", "Advanced Excel", "Python", "reporting and data analysis"],
   },
   {
     category: "Soft Skills",
-    skills: ["Analytical Thinking", "Problem Solving", "Decision Making", "Cross-functional Collaboration", "Process Improvement"],
+    skills: ["Analytical Thinking", "Problem Solving", "Decision Making", "Cross-functional Collaboration", "Continous learning"],
+  },
+  {
+    category: "Business & Process",
+    skills: ["Business planning", "commercial planning", "promotion planning", "cost impact"],
   },
 ];
 
